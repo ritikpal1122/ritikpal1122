@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=996&t=st=1692968972~exp=1692969572~hmac=9d5b7940d5f5b75a1ee15c3669f509843a7e1d172ad3d65c42242cc0ff71d1b2)
+![MasterHead](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=996&t=st=1692968972~exp=1692969572~hmac=9d5b7940d5f5b75a1ee15c3669f509843a7e1d172ad3d65c42242cc0ff71d1b2)
 <h1 align="center">Hi 👋, I'm Ritik pal</h1>
 <h3 align="center">Passionate about coding and iamge editing as well as Problem Solving. Currently, I am pursuing a Data Structure Algorithm course and interested in competitive programming.</h3>
 
