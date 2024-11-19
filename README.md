@@ -4,7 +4,7 @@
 - 👨‍💻 I’m a MERN Stack Web Developer.
 - 📚 I’m currently learning everything about Rust?
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play brawl stars🎮.
+- ⚡ Fun fact: I love to play PC Games🎮.
 
 <h2 align="center">👨‍💻 Languages and Tools</h2>
 
