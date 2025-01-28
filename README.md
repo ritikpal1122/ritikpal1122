@@ -6,6 +6,9 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play PC Games🎮.
 
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ritikpal1122)
+
+
 <h2 align="center">👨‍💻 Languages and Tools</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
