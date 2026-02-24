@@ -13,7 +13,7 @@
 ## Current Projects
 
 - 💂 **[webguardx](https://github.com/ritikpal1122/webguard)** - A playwright-based tool that audits your web pages for health and accessibility
-- 👩🏻‍💻 **[ByteScribe](https://github.com/ritikpal1122/ByteScribe)** All-in-One Knowledge Sharing & Interview Prep Platform.
+- 👩🏻‍💻 **[ByteScribe](https://github.com/ritikpal1122/ByteScribe)** - All-in-One Knowledge Sharing & Interview Prep Platform.
 
 <!--
 <h2 align="center">👨‍💻 Languages and Tools</h2>
