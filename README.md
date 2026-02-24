@@ -1,4 +1,4 @@
-<img width="635" height="240" alt="image" src="https://github.com/user-attachments/assets/df27beb5-00f0-41a4-aced-2d2f0596fe9d" /># Hi there, I'm Ritik  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+# Hi there, I'm Ritik  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 - 👨‍💻 Game khelo Game 
